@@ -1,0 +1,31 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iseeteaj/social-network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iseeteaj/social-network/issues"
+  },
+  "homepage": "https://github.com/iseeteaj/social-network#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "client-sessions": "^0.8.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.6",
+    "validator": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
